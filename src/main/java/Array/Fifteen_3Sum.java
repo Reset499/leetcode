@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Fifteen_threeSum {
+public class Fifteen_3Sum {
     public static void main(String[] args) {
         int[] nums = {-1, 0, 1, 2, -1, -4};
         List<List<Integer>> result = threeSum(nums);
