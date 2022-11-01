@@ -1,4 +1,4 @@
-package Array;
+package Array.RemoveElement;
 
 public class TwentySix_RemoveDuplicates {
     public static void main(String[] args) {
