@@ -1,4 +1,4 @@
-package Array;
+package Array.RemoveElement;
 
 public class TwentySeven_RemoveElement {
     public static void main(String[] args) {
