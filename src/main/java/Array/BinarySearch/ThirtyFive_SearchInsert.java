@@ -1,4 +1,4 @@
-package Array;
+package Array.BinarySearch;
 
 public class ThirtyFive_SearchInsert {
     public static void main(String[] args) {

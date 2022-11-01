@@ -1,4 +1,4 @@
-package Array;
+package Array.BinarySearch;
 
 public class SevenHundredFour_BinarySearch {
     public static void main(String[] args) {
