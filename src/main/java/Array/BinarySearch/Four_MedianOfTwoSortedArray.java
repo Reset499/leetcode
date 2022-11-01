@@ -1,4 +1,4 @@
-package Array;
+package Array.BinarySearch;
 
 public class Four_MedianOfTwoSortedArray {
     public static void main(String[] args) {
