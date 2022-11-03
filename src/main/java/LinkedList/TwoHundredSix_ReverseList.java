@@ -1,6 +1,6 @@
 package LinkedList;
 
-public class TwoHundredSix_reverseList {
+public class TwoHundredSix_ReverseList {
     public static void main(String[] args) {
 
     }
