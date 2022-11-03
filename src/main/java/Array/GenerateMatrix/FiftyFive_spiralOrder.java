@@ -33,7 +33,7 @@ public class FiftyFive_spiralOrder {
         }
         if (bound == (Math.min(lineCount,columnCount)+1)/2)
             return result;
-        if (columnCount % 2 == 1 || lineCount % 2 == 1) {
+        else {
             if (columnCount > lineCount) {
                 for (int i = bound; i < columnCount - bound; i++)
                     result.add(matrix[lineCount / 2][i]);
