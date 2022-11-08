@@ -1,4 +1,4 @@
-package HashTable;
+package HashTable.Anagrams;
 
 public class ThreeHundredEightyEight_CanConstruct {
     public static void main(String[] args) {

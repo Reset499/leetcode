@@ -1,4 +1,4 @@
-package HashTable;
+package HashTable.Anagrams;
 
 public class TwoHundredTwo_isAnagram {
     public static void main(String[] args) {

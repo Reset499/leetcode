@@ -1,4 +1,4 @@
-package HashTable;
+package HashTable.Anagrams;
 
 import javax.print.DocFlavor;
 import java.sql.Array;
