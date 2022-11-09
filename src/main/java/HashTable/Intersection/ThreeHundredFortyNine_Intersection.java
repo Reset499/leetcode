@@ -1,9 +1,6 @@
 package HashTable.Intersection;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class ThreeHundredFortyNine_Intersection {
     public static void main(String[] args) {
@@ -11,16 +8,12 @@ public class ThreeHundredFortyNine_Intersection {
     }
 
     public int[] intersection(int[] nums1, int[] nums2) {
-        Map<Integer, Boolean> map = new HashMap<Integer, Boolean>();
-        List<Integer> result= new ArrayList<Integer>;
-        for (int i = 0; i < nums1.length; i++) {
-            if (map.get(nums1[i]) == true) continue;
-            map.put(nums1[i], true);
-        }
-        for (int i = 0; i < nums2.length; i++) {
-            if(map.containsKey(nums2[i])) result.add(nums2[i]);
-        }
-
-        return result.toArray();
+        if (nums1.length == 0 || nums2.length == 0) return new int[0];
+        Set<Integer> set = new HashSet<Integer>();
+        Set<Integer> result = new HashSet<Integer>();
+        for (int i : nums1) set.add(i);
+        for (int i : nums2)
+            if (set.contains(i)) result.add(i);
+        return result.stream().mapToInt(x -> x).toArray();
     }
 }
