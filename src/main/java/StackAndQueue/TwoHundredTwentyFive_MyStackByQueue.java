@@ -3,12 +3,12 @@ package StackAndQueue;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class MyStackByQueue {
+public class TwoHundredTwentyFive_MyStackByQueue {
 
     Queue<Integer> queue1;
     Queue<Integer> queue2;
 
-    public MyStackByQueue() {
+    public TwoHundredTwentyFive_MyStackByQueue() {
         queue1 = new LinkedList<>();
         queue2 = new LinkedList<>();
     }

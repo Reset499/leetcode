@@ -2,12 +2,12 @@ package StackAndQueue;
 
 import java.util.Stack;
 
-public class MyQueueByStack {
+public class TwoHundredThirtyTwo_MyQueueByStack {
 
     Stack<Integer> stackIn;
     Stack<Integer> stackOut;
 
-    public MyQueueByStack() {
+    public TwoHundredThirtyTwo_MyQueueByStack() {
         stackIn = new Stack<>();
         stackOut = new Stack<>();
     }
