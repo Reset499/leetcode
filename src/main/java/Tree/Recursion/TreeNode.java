@@ -1,4 +1,4 @@
-package Tree;
+package Tree.Recursion;
 
 
 public class TreeNode {
