@@ -2,34 +2,31 @@ package Tree;
 
 public class NintyEight_IsValidBST {
     public static void main(String[] args) {
-//        TreeNode root3 = new TreeNode(3);
-//        TreeNode root2 = new TreeNode(1);
-        TreeNode root1 = new TreeNode(0);
+        TreeNode root5 = new TreeNode(20);
+        TreeNode root4 = new TreeNode(6);
+        TreeNode root3 = new TreeNode(15,root4,root5);
+        TreeNode root2 = new TreeNode(5);
+        TreeNode root1 = new TreeNode(10,root2,root3);
         System.out.println(isValidBST(root1));
     }
 
-    static boolean result = true;
-
+    static TreeNode max;
     public static boolean isValidBST(TreeNode root) {
-        if(root == null) return result;
-        isValid(root);
-        return result;
-    }
-
-    public static void isValid(TreeNode root) {
-        if (root.left == null && root.right == null) return;
-        if (root.left != null) {
-            if (root.left.val >= root.val) {
-                result = false;
-                return;
-            } else isValid(root.left);
-
+        if (root == null) {
+            return true;
         }
-        if (root.right != null) {
-            if (root.right.val <= root.val) {
-                result = false;
-                return;
-            } else isValid(root.right);
+        // 左
+        boolean left = isValidBST(root.left);
+        if (!left) {
+            return false;
         }
+        // 中
+        if (max != null && root.val <= max.val) {
+            return false;
+        }
+        max = root;
+        // 右
+        boolean right = isValidBST(root.right);
+        return right;
     }
 }
