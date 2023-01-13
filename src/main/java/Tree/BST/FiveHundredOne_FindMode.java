@@ -1,4 +1,5 @@
-package Tree;
+package Tree.BST;
+
 
 import java.util.ArrayList;
 

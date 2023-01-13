@@ -1,4 +1,5 @@
-package Tree;
+package Tree.BST;
+
 
 public class SixHundredSixtyNine_TrimBST {
     public static void main(String[] args) {

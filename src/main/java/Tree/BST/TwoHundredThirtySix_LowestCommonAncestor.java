@@ -1,4 +1,6 @@
-package Tree;
+package Tree.BST;
+
+
 
 public class TwoHundredThirtySix_LowestCommonAncestor {
     public static void main(String[] args) {

@@ -1,4 +1,6 @@
-package Tree;
+package Tree.BST;
+
+import Tree.BST.TreeNode;
 
 public class SevenHundred_SearchBST {
     public static void main(String[] args) {

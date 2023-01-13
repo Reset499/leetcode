@@ -1,13 +1,10 @@
-package Tree;
+package Tree.BST;
+
+import Tree.BST.TreeNode;
 
 public class NintyEight_IsValidBST {
     public static void main(String[] args) {
-        TreeNode root5 = new TreeNode(20);
-        TreeNode root4 = new TreeNode(6);
-        TreeNode root3 = new TreeNode(15,root4,root5);
-        TreeNode root2 = new TreeNode(5);
-        TreeNode root1 = new TreeNode(10,root2,root3);
-        System.out.println(isValidBST(root1));
+
     }
 
     static TreeNode max;

@@ -1,4 +1,6 @@
-package Tree;
+package Tree.BST;
+
+import Tree.BST.TreeNode;
 
 public class SevenHundredOne_InsertIntoBST {
     public static void main(String[] args) {
