@@ -938,6 +938,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[416]分割等和子集.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[416]分割等和子集.md" />
+              <option name="frontendQuestionId" value="leetcode.cn416" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[416]分割等和子集.java" />
+              <option name="titleSlug" value="partition-equal-subset-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[435]无重叠区间.java">
           <value>
             <LeetcodeEditor>
