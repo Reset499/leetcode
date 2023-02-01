@@ -1114,6 +1114,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/tmp/leetcode/editor/cn/[165]比较版本号.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/tmp/leetcode/editor/cn/doc/content/[165]比较版本号.md" />
+              <option name="frontendQuestionId" value="leetcode.cn165" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/tmp/leetcode/editor/cn/[165]比较版本号.java" />
+              <option name="titleSlug" value="compare-version-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/tmp/leetcode/editor/cn/[16]最接近的三数之和.java">
           <value>
             <LeetcodeEditor>
@@ -1617,6 +1628,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="/tmp/leetcode/editor/cn/[72]编辑距离.java" />
               <option name="titleSlug" value="edit-distance" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/tmp/leetcode/editor/cn/[739]每日温度.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/tmp/leetcode/editor/cn/doc/content/[739]每日温度.md" />
+              <option name="frontendQuestionId" value="leetcode.cn739" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/tmp/leetcode/editor/cn/[739]每日温度.java" />
+              <option name="titleSlug" value="daily-temperatures" />
             </LeetcodeEditor>
           </value>
         </entry>
