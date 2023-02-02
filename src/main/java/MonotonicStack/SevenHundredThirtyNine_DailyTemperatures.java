@@ -1,4 +1,4 @@
-package DynamicPrograming;
+package MonotonicStack;
 
 import java.util.Stack;
 
