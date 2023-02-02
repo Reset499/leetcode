@@ -4,9 +4,9 @@ import java.util.Stack;
 
 public class EightyFour_LargestRectangleArea {
     public static void main(String[] args) {
-
+        System.out.println(largestRectangleArea(new int[]{2,1,5,6,2,3}));
     }
-    int largestRectangleArea(int[] heights) {
+    public static int largestRectangleArea(int[] heights) {
         Stack<Integer> st = new Stack<Integer>();
 
         // 数组扩容，在头和尾各加入一个元素
