@@ -872,6 +872,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1604]警告一小时内使用相同员工卡大于等于三次的人.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[1604]警告一小时内使用相同员工卡大于等于三次的人.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1604" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1604]警告一小时内使用相同员工卡大于等于三次的人.java" />
+              <option name="titleSlug" value="alert-using-same-key-card-three-or-more-times-in-a-one-hour-period" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[17]电话号码的字母组合.java">
           <value>
             <LeetcodeEditor>
