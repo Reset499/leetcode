@@ -1147,6 +1147,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2341]数组能形成多少数对.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[2341]数组能形成多少数对.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2341" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2341]数组能形成多少数对.java" />
+              <option name="titleSlug" value="maximum-number-of-pairs-in-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[235]二叉搜索树的最近公共祖先.java">
           <value>
             <LeetcodeEditor>
