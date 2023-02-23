@@ -435,10 +435,10 @@
         <entry key="/tmp/leetcode/editor/cn/[3]无重复字符的最长子串.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="/tmp/leetcode/editor/cn/doc/content/[3]无重复字符的最长子串.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[3]无重复字符的最长子串.md" />
               <option name="frontendQuestionId" value="leetcode.cn3" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="/tmp/leetcode/editor/cn/[3]无重复字符的最长子串.java" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[3]无重复字符的最长子串.java" />
               <option name="titleSlug" value="longest-substring-without-repeating-characters" />
             </LeetcodeEditor>
           </value>
@@ -982,6 +982,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1238]循环码排列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[1238]循环码排列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1238" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1238]循环码排列.java" />
+              <option name="titleSlug" value="circular-permutation-in-binary-representation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[123]买卖股票的最佳时机 III.java">
           <value>
             <LeetcodeEditor>
@@ -1364,6 +1375,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[39]组合总和.java" />
               <option name="titleSlug" value="combination-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[3]无重复字符的最长子串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[3]无重复字符的最长子串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[3]无重复字符的最长子串.java" />
+              <option name="titleSlug" value="longest-substring-without-repeating-characters" />
             </LeetcodeEditor>
           </value>
         </entry>
