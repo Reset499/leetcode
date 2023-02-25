@@ -1026,6 +1026,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1255]得分最高的单词集合.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[1255]得分最高的单词集合.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1255" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1255]得分最高的单词集合.java" />
+              <option name="titleSlug" value="maximum-score-words-formed-by-letters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[131]分割回文串.java">
           <value>
             <LeetcodeEditor>
@@ -1881,6 +1892,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[78]子集.java" />
               <option name="titleSlug" value="subsets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[7]整数反转.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[7]整数反转.md" />
+              <option name="frontendQuestionId" value="leetcode.cn7" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[7]整数反转.java" />
+              <option name="titleSlug" value="reverse-integer" />
             </LeetcodeEditor>
           </value>
         </entry>
