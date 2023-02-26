@@ -894,6 +894,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1144]递减元素使数组呈锯齿状.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[1144]递减元素使数组呈锯齿状.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1144" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1144]递减元素使数组呈锯齿状.java" />
+              <option name="titleSlug" value="decrease-elements-to-make-array-zigzag" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[115]不同的子序列.java">
           <value>
             <LeetcodeEditor>
