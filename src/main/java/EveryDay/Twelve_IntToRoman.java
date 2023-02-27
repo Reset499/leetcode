@@ -17,16 +17,17 @@ public class Twelve_IntToRoman {
             String s2 = map.get(level+1);
             switch (num%10){
                 case 0:break;
-                case 1:result = s1+result;
-                case 2:result = s1+s1+result;
-                case 3:result = s1+s1+s1+result;
-                case 4:result = s1+s2+result;
-                case 5:result = s2+result;
-                case 6:result = s2+s1+result;
-                case 7:result = s2+s1+s1+result;
-                case 8:result = s2+s1+s1+s1+result;
-                case 9:result = s1+map.get(level+2)+result;
+                case 1:result = s1+result;break;
+                case 2:result = s1+s1+result;break;
+                case 3:result = s1+s1+s1+result;break;
+                case 4:result = s1+s2+result;break;
+                case 5:result = s2+result;break;
+                case 6:result = s2+s1+result;break;
+                case 7:result = s2+s1+s1+result;break;
+                case 8:result = s2+s1+s1+s1+result;break;
+                case 9:result = s1+map.get(level+2)+result;break;
             }
+            num = num/10;
             level+=2;
         }
         return result;
