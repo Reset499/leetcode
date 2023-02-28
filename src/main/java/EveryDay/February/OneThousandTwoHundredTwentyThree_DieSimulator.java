@@ -1,4 +1,4 @@
-package EveryDay;
+package EveryDay.February;
 
 public class OneThousandTwoHundredTwentyThree_DieSimulator {
     public static void main(String[] args) {

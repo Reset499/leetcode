@@ -1,4 +1,4 @@
-package EveryDay;
+package EveryDay.February;
 
 public class Seven_Reverse {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package EveryDay;
-
-import java.math.BigInteger;
+package EveryDay.February;
 
 public class Eight_MyAtoi {
 

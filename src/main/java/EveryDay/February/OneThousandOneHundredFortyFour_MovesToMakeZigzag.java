@@ -1,4 +1,4 @@
-package EveryDay;
+package EveryDay.February;
 
 public class OneThousandOneHundredFortyFour_MovesToMakeZigzag {
     public static void main(String[] args) {

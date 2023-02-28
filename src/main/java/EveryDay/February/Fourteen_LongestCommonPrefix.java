@@ -1,4 +1,4 @@
-package EveryDay;
+package EveryDay.February;
 
 public class Fourteen_LongestCommonPrefix {
     public static void main(String[] args) {

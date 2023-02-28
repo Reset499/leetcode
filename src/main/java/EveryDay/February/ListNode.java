@@ -1,4 +1,4 @@
-package EveryDay;
+package EveryDay.February;
 
 public class ListNode {
     int val;

@@ -1,4 +1,4 @@
-package EveryDay;
+package EveryDay.February;
 
 public class OneThousandTwoHundredThirtyFour_BalancedString {
     public static void main(String[] args) {

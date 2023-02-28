@@ -1,4 +1,4 @@
-package EveryDay;
+package EveryDay.February;
 
 public class OneThousandTwoHundredFifty_IsGoodArray {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package EveryDay;
+package EveryDay.February;
 
 public class Nine_IsPalindrome {
     public static void main(String[] args) {

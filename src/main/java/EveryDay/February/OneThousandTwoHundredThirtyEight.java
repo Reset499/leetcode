@@ -1,4 +1,4 @@
-package EveryDay;
+package EveryDay.February;
 
 import java.util.ArrayList;
 import java.util.List;
