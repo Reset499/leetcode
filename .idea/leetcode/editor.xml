@@ -1158,6 +1158,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1599]经营摩天轮的最大利润.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[1599]经营摩天轮的最大利润.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1599" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1599]经营摩天轮的最大利润.java" />
+              <option name="titleSlug" value="maximum-profit-of-operating-a-centennial-wheel" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1604]警告一小时内使用相同员工卡大于等于三次的人.java">
           <value>
             <LeetcodeEditor>
@@ -1595,6 +1606,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[435]无重叠区间.java" />
               <option name="titleSlug" value="non-overlapping-intervals" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[43]字符串相乘.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[43]字符串相乘.md" />
+              <option name="frontendQuestionId" value="leetcode.cn43" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[43]字符串相乘.java" />
+              <option name="titleSlug" value="multiply-strings" />
             </LeetcodeEditor>
           </value>
         </entry>
