@@ -1389,6 +1389,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2379]得到 K 个黑块的最少涂色次数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[2379]得到 K 个黑块的最少涂色次数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2379" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2379]得到 K 个黑块的最少涂色次数.java" />
+              <option name="titleSlug" value="minimum-recolors-to-get-k-consecutive-black-blocks" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[23]合并K个升序链表.java">
           <value>
             <LeetcodeEditor>
