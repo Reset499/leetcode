@@ -1433,6 +1433,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2488]统计中位数为 K 的子数组.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[2488]统计中位数为 K 的子数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2488" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2488]统计中位数为 K 的子数组.java" />
+              <option name="titleSlug" value="count-subarrays-with-median-k" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[257]二叉树的所有路径.java">
           <value>
             <LeetcodeEditor>
@@ -1972,6 +1983,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[58]最后一个单词的长度.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[58]最后一个单词的长度.md" />
+              <option name="frontendQuestionId" value="leetcode.cn58" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[58]最后一个单词的长度.java" />
+              <option name="titleSlug" value="length-of-last-word" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[5]最长回文子串.java">
           <value>
             <LeetcodeEditor>
@@ -1994,6 +2016,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[61]旋转链表.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[61]旋转链表.md" />
+              <option name="frontendQuestionId" value="leetcode.cn61" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[61]旋转链表.java" />
+              <option name="titleSlug" value="rotate-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[62]不同路径.java">
           <value>
             <LeetcodeEditor>
@@ -2013,6 +2046,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[63]不同路径 II.java" />
               <option name="titleSlug" value="unique-paths-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[64]最小路径和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[64]最小路径和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn64" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[64]最小路径和.java" />
+              <option name="titleSlug" value="minimum-path-sum" />
             </LeetcodeEditor>
           </value>
         </entry>
