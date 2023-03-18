@@ -2,10 +2,12 @@ package EveryDay.March;
 
 public class OneThousandSixHundredSixteen_CheckPalindromeFormation {
     public static void main(String[] args) {
+        System.out.println(checkConcatenation("jizalu","ulacfd"));
     }
 
 
-    public boolean checkConcatenation(String a, String b) {
+    //这里不全要再判断一次checkConcatenation(b,a)
+    public static boolean checkConcatenation(String a, String b) {
         int n = a.length();
         int left = 0, right = n - 1;
         //判断从哪里开始就已经不相等了(不相等再继续下去 无论怎么拼也不可能是回文串),要进行拼接才有可能形成子字符串
@@ -20,7 +22,7 @@ public class OneThousandSixHundredSixteen_CheckPalindromeFormation {
         return checkSelfPalindrome(a, left, right) || checkSelfPalindrome(b, left, right);
     }
 
-    public boolean checkSelfPalindrome(String a, int left, int right) {
+    public static boolean checkSelfPalindrome(String a, int left, int right) {
         while (left < right && a.charAt(left) == a.charAt(right)) {
             left++;
             right--;
