@@ -1224,6 +1224,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1630]等差子数组.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[1630]等差子数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1630" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1630]等差子数组.java" />
+              <option name="titleSlug" value="arithmetic-subarrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1645]1645.Hopper 公司查询 II.java">
           <value>
             <LeetcodeEditor>
