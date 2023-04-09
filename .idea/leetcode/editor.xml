@@ -850,6 +850,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1104]二叉树寻路.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[1104]二叉树寻路.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1104" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1104]二叉树寻路.java" />
+              <option name="titleSlug" value="path-in-zigzag-labelled-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[110]平衡二叉树.java">
           <value>
             <LeetcodeEditor>
@@ -1455,6 +1466,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2399]检查相同字母间的距离.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[2399]检查相同字母间的距离.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2399" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2399]检查相同字母间的距离.java" />
+              <option name="titleSlug" value="check-distances-between-same-letters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[23]合并K个升序链表.java">
           <value>
             <LeetcodeEditor>
@@ -1906,6 +1928,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[514]自由之路.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[514]自由之路.md" />
+              <option name="frontendQuestionId" value="leetcode.cn514" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[514]自由之路.java" />
+              <option name="titleSlug" value="freedom-trail" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[515]在每个树行中找最大值.java">
           <value>
             <LeetcodeEditor>
@@ -2035,6 +2068,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[5]最长回文子串.java" />
               <option name="titleSlug" value="longest-palindromic-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[60]排列序列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[60]排列序列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn60" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[60]排列序列.java" />
+              <option name="titleSlug" value="permutation-sequence" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2398,6 +2442,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[剑指 Offer 47]礼物的最大价值.java" />
               <option name="titleSlug" value="li-wu-de-zui-da-jie-zhi-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[剑指 Offer II 099]最小路径之和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[剑指 Offer II 099]最小路径之和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer II 099" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[剑指 Offer II 099]最小路径之和.java" />
+              <option name="titleSlug" value="0i0mDW" />
             </LeetcodeEditor>
           </value>
         </entry>
