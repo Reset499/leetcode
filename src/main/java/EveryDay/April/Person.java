@@ -1,5 +1,8 @@
 package EveryDay.April;
 
+import java.util.Set;
+import java.util.TreeMap;
+
 // person对象没有实现Comparable接口，所以必须实现，这样才不会出错，才可以使treemap中的数据按顺序排列
 // 前面一个例子的String类已经默认实现了Comparable接口，详细可以查看String类的API文档，另外其他
 // 像Integer类等都已经实现了Comparable接口，所以不需要另外实现了
@@ -42,6 +45,21 @@ public  class Person implements Comparable<Person> {
         }
         return 0;
     }
+    public static void main(String[] args) {
+        //treeMap有序,会按写好的compareTo方法进行排序
+        TreeMap<Person, String> pdata = new TreeMap<Person, String>();
+        pdata.put(new Person("张三", 30), "zhangsan");
+        pdata.put(new Person("李四", 20), "lisi");
+        pdata.put(new Person("王五", 10), "wangwu");
+        pdata.put(new Person("小红", 5), "xiaohong");
+        // 得到key的值的同时得到key所对应的值
+        Set<Person> keys = pdata.keySet();
+        for (Person key : keys) {
+            System.out.println(key.getAge() + "-" + key.getName());
+
+        }
+    }
+
 }
 
 
