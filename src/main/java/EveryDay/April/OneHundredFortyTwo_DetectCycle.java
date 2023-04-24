@@ -31,7 +31,6 @@ public class OneHundredFortyTwo_DetectCycle {
             if(count==1) ++len;
             if(slow==fast) ++count;
         }
-        ListNode cur =
-        for(int )
+        return null;
     }
 }
