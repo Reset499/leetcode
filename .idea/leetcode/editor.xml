@@ -1532,6 +1532,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2418]按身高排序.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[2418]按身高排序.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2418" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2418]按身高排序.java" />
+              <option name="titleSlug" value="sort-the-people" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2488]统计中位数为 K 的子数组.java">
           <value>
             <LeetcodeEditor>
