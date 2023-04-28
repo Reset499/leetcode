@@ -25,11 +25,11 @@ public class TwoThousandTwentyThree_EqualFrequency {
         }
         //若字母数量都一样,那么要么字母数量都为1,要么该数量的字母只有一个,否则false;
         if (list.size() == 1) return list.get(0) == 1 || map.get(list.get(0)) == 1;
+        //若小的数量是1且只有一个 则true 若大的等于小的+1且只有一个则true
         if (list.size() == 2) {
-            int max = Math.max(list.get(0),list.get(1));
-            int min = Math.min(list.get(0),list.get(1));
-            if(min==1&&map.get(min)==1) return true;
-            if(max == min+1&&map.get(max)==1) return true;
+            int max = Math.max(list.get(0), list.get(1));
+            int min = Math.min(list.get(0), list.get(1));
+            return min == 1 && map.get(min) == 1||max == min + 1 && map.get(max) == 1;
         }
         return false;
     }
