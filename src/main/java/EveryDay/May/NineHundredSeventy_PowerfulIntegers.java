@@ -6,7 +6,6 @@ public class NineHundredSeventy_PowerfulIntegers {
     public static void main(String[] args) {
     }
     public List<Integer> powerfulIntegers(int x, int y, int bound) {
-        List<Integer> result = new ArrayList<>();
         int[] X = new int[20];
         int[] Y = new int[20];
         X[0] = 1;
@@ -15,12 +14,10 @@ public class NineHundredSeventy_PowerfulIntegers {
         Set<Integer> set = new HashSet<>();
         for(int i = 0;i<20&&X[i]<=bound-1;i++){
             for(int j = 0;j<20&&X[i]+Y[j]<=bound;j++){
-                if(!set.contains(X[i]+Y[j])){
                     set.add(X[i]+Y[j]);
-                    result.add(X[i]+Y[j]);
-                }
             }
         }
+        List<Integer> result = new ArrayList<>(set);
         return result;
     }
 }
