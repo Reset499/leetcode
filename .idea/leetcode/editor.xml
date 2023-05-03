@@ -740,6 +740,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1003]检查替换后的词是否有效.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[1003]检查替换后的词是否有效.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1003" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1003]检查替换后的词是否有效.java" />
+              <option name="titleSlug" value="check-if-word-is-valid-after-substitutions" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[1005]K 次取反后最大化的数组和.java">
           <value>
             <LeetcodeEditor>
