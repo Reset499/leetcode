@@ -1378,6 +1378,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2106]摘水果.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[2106]摘水果.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2106" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2106]摘水果.java" />
+              <option name="titleSlug" value="maximum-fruits-harvested-after-at-most-k-steps" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[213]打家劫舍 II.java">
           <value>
             <LeetcodeEditor>
@@ -1543,13 +1554,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[23]合并 K 个升序链表.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[23]合并 K 个升序链表.md" />
+              <option name="frontendQuestionId" value="leetcode.cn23" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[23]合并 K 个升序链表.java" />
+              <option name="titleSlug" value="merge-k-sorted-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[23]合并K个升序链表.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[23]合并K个升序链表.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[23]合并 K 个升序链表.md" />
               <option name="frontendQuestionId" value="leetcode.cn23" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[23]合并K个升序链表.java" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[23]合并 K 个升序链表.java" />
               <option name="titleSlug" value="merge-k-sorted-lists" />
             </LeetcodeEditor>
           </value>
