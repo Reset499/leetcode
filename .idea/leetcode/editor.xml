@@ -1598,6 +1598,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2432]处理用时最长的那个任务的员工.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[2432]处理用时最长的那个任务的员工.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2432" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2432]处理用时最长的那个任务的员工.java" />
+              <option name="titleSlug" value="the-employee-that-worked-on-the-longest-task" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2488]统计中位数为 K 的子数组.java">
           <value>
             <LeetcodeEditor>
