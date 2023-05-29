@@ -1642,6 +1642,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2455]可被三整除的偶数的平均值.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/doc/content/[2455]可被三整除的偶数的平均值.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2455" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2455]可被三整除的偶数的平均值.java" />
+              <option name="titleSlug" value="average-value-of-even-numbers-that-are-divisible-by-three" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../leetcode/leetcode/editor/cn/[2488]统计中位数为 K 的子数组.java">
           <value>
             <LeetcodeEditor>
