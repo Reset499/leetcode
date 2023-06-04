@@ -1,6 +1,5 @@
 package EveryDay.March;
 
-import javafx.scene.transform.Rotate;
 
 public class FortyEight_Rotate {
     public static void main(String[] args) {
