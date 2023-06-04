@@ -17,7 +17,6 @@ public class OneThousandOneHundredFiftySix {
         for (int i = 0; i < text.length(); i++) {
             map.put(text.charAt(i), map.getOrDefault(text.charAt(i), 0) + 1);
             if (map.size() == 1 || (map.size() == 2 && (map.containsValue(1)))) {
-                map.get()
                 max = Math.max(max, i - left + 1);
                 continue;
             }
