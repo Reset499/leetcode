@@ -1,6 +1,6 @@
 package EveryDay.June;
 
-public class TwoThousandFourHundredSixty {
+public class TwoThousandFourHundredSixty_applyOperations {
     public static void main(String[] args) {
 
     }

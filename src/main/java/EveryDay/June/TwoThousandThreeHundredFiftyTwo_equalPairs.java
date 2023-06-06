@@ -3,7 +3,7 @@ package EveryDay.June;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TwoThousandThreeHundredFiftyTwo {
+public class TwoThousandThreeHundredFiftyTwo_equalPairs {
     public static void main(String[] args) {
 
     }
